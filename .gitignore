@@ -23,8 +23,11 @@ dist/
 # Sensitive Files
 appsettings.json
 appsettings.Development.json
-appsettings.Production.json
 *.env
+
+# Build/Publish folders
+publish/
+**/publish/
 
 # OS
 .DS_Store
