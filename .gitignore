@@ -1,0 +1,38 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.dll
+*.exe
+*.pdb
+
+# Angular
+node_modules/
+dist/
+.angular/
+*.js.map
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Sensitive Files
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Database
+*.db
+*.sqlite
+*.mdf
+*.ldf
